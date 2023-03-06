@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themelic
 - 👀 I’m interested in learning new things and stay fresh.
-- 🌱 I’m currently learning OOP and MVC to enhance my abilities in programming.
+- 🌱 I’m currently learning Python, OOP and MVC to enhance my abilities in programming.
 - 💞️ I’m looking to collaborate on projects to learn deeper to succeed on proving my self what I can do more.
 - 📫 How to reach me : https://blog.melic.com is a good start to know me and sending message via github and twitter (mmsonmez) will be great way.
 
